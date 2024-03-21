@@ -3,8 +3,8 @@
     </a>
     <br />
 
-   ![GitHub last commit](https://img.shields.io/github/last-commit/tagoworks/spotium-mac)
-   ![GitHub issues](https://img.shields.io/github/issues-raw/tagoworks/spotium-mac)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/t-a-g-o/spotium-mac)
+   ![GitHub issues](https://img.shields.io/github/issues-raw/t-a-g-o/spotium-mac)
 
    *there is definitely an easier way to make a tkinter menu but idc*
 
